@@ -21,3 +21,9 @@ content = response.read()
 if (content):
     print(content)
 ```
+
+## weather 天气预报查询接口
+
+```
+weather.cs
+```
